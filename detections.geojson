@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2427005,
+          48.0124415
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105810_0044_D.jpg",
+        "tassel_count": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.242336972222223,
+          48.01089761111111
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703104016_0008_D.jpg",
+        "tassel_count": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.248936944444445,
+          48.00956913888889
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105303_0749_D.jpg",
+        "tassel_count": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2429355,
+          48.010675194444445
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703104021_0013_D.jpg",
+        "tassel_count": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.244763555555558,
+          48.01153291666667
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105744_0022_D.jpg",
+        "tassel_count": 163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.243948055555556,
+          48.0118395
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105751_0029_D.jpg",
+        "tassel_count": 212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24251191666667,
+          48.01237455555555
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105804_0041_D.jpg",
+        "tassel_count": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.249057444444446,
+          48.00952452777778
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105304_0750_D.jpg",
+        "tassel_count": 199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.242745527777778,
+          48.012285222222225
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105801_0039_D.jpg",
+        "tassel_count": 199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24572438888889,
+          48.01117822222222
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105736_0014_D.jpg",
+        "tassel_count": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.245482305555555,
+          48.011266444444445
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105738_0016_D.jpg",
+        "tassel_count": 196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24286602777778,
+          48.012239916666665
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105800_0038_D.jpg",
+        "tassel_count": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.245241083333333,
+          48.01135572222222
+        ]
+      },
+      "properties": {
+        "image_name": "DJI_20240703105740_0018_D.jpg",
+        "tassel_count": 181
+      }
+    }
+  ]
+}
